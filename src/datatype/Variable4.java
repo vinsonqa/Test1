@@ -30,6 +30,11 @@ public class Variable4 {
 		 * 
 		 */
 		
-	}
-
+		
+		String[] s= {"Veda","Denny","Trilok","Peter","Angelo"};
+		System.out.println(s[2]);
+		System.out.println(s[1]);
+		System.out.println(s[5]);
+}
+		
 }

@@ -1,5 +1,6 @@
 package datatype;
 
+
 public class FirstProgram {
 
 	//Semi-column is us for the end of the statement in programming language
@@ -25,6 +26,7 @@ public class FirstProgram {
 		//.java file contain the source code and 
 		//Javac compile the .java file to .class file
 		//Complie means converting the code in the byte code
+		
 		
 	}
 	

@@ -1,4 +1,4 @@
-package generalselenium;
+package javapackage;
 
 public class GeneralNotes {
 	
@@ -50,9 +50,25 @@ public class GeneralNotes {
 	 *
 	 * 
 	 * 4. Selenium Grid
-	 * #
+	 * 
 	 *
-	 *
+	 * ## WebDriver Architecture
+	 * https://prnt.sc/pzyGpTTTsZhd
+	 * 
+	 * ## Driver download
+	 * -> Check Browser version like in chrome click 3 dot and Settings >> About Chrome
+	 * -> Go to google and type chrome driver
+	 * -> https://chromedriver.chromium.org/downloads click this link
+	 * -> Download respective software build
+	 * 
+	 * 
+	 * ## Need to remember first 2 line code VVVVVVIIIIIIMMMMMMPPPPPP
+	 * Q: Can you write system property syntax
+	 * 
+	 * 1. system.setproperty("webdriver.chorme.driver", "path of chrome driver\chromedriver.exe")
+	 * 2. WebDriver driver=new ChromeDriver();
+	 * 		//
+	 * 
 	 */
 
 }
